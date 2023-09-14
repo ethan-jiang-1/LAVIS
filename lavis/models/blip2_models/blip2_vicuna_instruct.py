@@ -141,6 +141,7 @@ class Blip2VicunaInstruct(Blip2Base):
         # print(samples["text_input"])
         # print(samples["text_output"])
         # print('-----------------')
+        # print(samples)
 
         image = samples["image"]
         with self.maybe_autocast():
@@ -192,7 +193,8 @@ class Blip2VicunaInstruct(Blip2Base):
 
         self.llm_tokenizer.truncation_side = 'right'
         text_output_tokens = self.llm_tokenizer(
-            [t + self.llm_tokenizer.eos_token for t in samples['text_output']],
+            # [t + self.llm_tokenizer.eos_token for t in samples['text_output']],
+            [t + self.llm_tokenizer.eos_token for t in samples['answer']],
             return_tensors="pt",
             padding="longest",
             truncation=True,

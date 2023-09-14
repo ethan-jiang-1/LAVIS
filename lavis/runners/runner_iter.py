@@ -117,7 +117,8 @@ class RunnerIter(RunnerBase):
                             if agg_metrics > best_agg_metric and split_name == "val":
                                 best_iters, best_agg_metric = end_iters, agg_metrics
 
-                                self._save_checkpoint(end_iters, is_best=True)
+#                                 self._save_checkpoint(end_iters, is_best=True)
+                            self._save_checkpoint(end_iters, is_best=False)
 
                             val_log.update({"best_iters": best_iters})
                             self.log_stats(val_log, split_name)
@@ -178,7 +179,8 @@ class RunnerIter(RunnerBase):
         }
         save_to = os.path.join(
             self.output_dir,
-            "checkpoint_{}.pth".format("best" if is_best else cur_iters),
+            # "checkpoint_{}.pth".format("best" if is_best else cur_epoch),
+            "checkpoint_last.pth",
         )
         logging.info("Saving checkpoint at iters {} to {}.".format(cur_iters, save_to))
         torch.save(save_obj, save_to)

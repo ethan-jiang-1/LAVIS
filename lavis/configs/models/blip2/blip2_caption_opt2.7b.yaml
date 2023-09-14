@@ -5,14 +5,15 @@
 
 model:
   arch: caption_coco_opt2.7b
-  load_finetuned: True
+  load_finetuned: False
 
-  pretrained: "https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/BLIP2/blip2_pretrained_opt2.7b.pth"
-  finetuned: "https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/BLIP2/blip2_caption_opt2.7b.pth"
+  pretrained: "/root/autodl-tmp/LAVIS/lavis/output/BLIP2/Caption_coco/20230823104/checkpoint_last.pth"
+  # pretrained: "/root/autodl-tmp/blip2_pretrained_opt2.7b.pth"
+  finetuned: "/root/blip2_caption_opt2.7b.pth"
 
   # vit encoder
-  image_size: 364
-  drop_path_rate: 0
+  image_size: 216
+  drop_path_rate: 0.1
   use_grad_checkpoint: False
   vit_precision: "fp32"
   freeze_vit: False
@@ -24,17 +25,17 @@ model:
   opt_model: "facebook/opt-2.7b"
 
   # generation configs
-  prompt: "a photo of"
+  # prompt: "a photo of"
 
 
 preprocess:
     vis_processor:
         train:
           name: "blip_image_train"
-          image_size: 364
+          image_size: 216
         eval:
           name: "blip_image_eval"
-          image_size: 364
+          image_size: 216
     text_processor:
         train:
           name: "blip_caption"

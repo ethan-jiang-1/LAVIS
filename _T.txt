@@ -1,0 +1,301 @@
+Horse  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100898-2.jpg
+Horse  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100898-3.jpg
+Horse  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100898.jpg
+Horse  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/118162-2.jpg
+Horse  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/118162-3.jpg
+Horse  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/118162.jpg
+Horse  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119059-2.jpg
+Horse  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119059-3.jpg
+Horse  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119059.jpg
+Horse  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/102597-2.jpg
+Horse  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/102597-3.jpg
+Horse  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/102597.jpg
+Horse  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/120894-2.jpg
+
+
+
+Flower(Florals)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/101078-2.jpg
+Flower(Florals)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/101078-3.jpg
+Flower(Florals)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/101078.jpg
+Flower(Florals)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100076-2.jpg
+Flower(Florals)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100076-3.jpg
+Flower(Florals)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100076.jpg
+Flower(Florals)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/101097-2.jpg
+Flower(Florals)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/101097-3.jpg
+Flower(Florals)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/101097.jpg
+Flower(Florals)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/101833-2.jpg
+Flower(Florals)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/101833-3.jpg
+Flower(Florals)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/101833.jpg
+Flower(Florals)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/102169-3.jpg
+Flower(Florals)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/101096-3.jpg
+Flower(Florals)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/102362-2.jpg
+Flower(Florals)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/102362-3.jpg
+Flower(Florals)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/102362.jpg
+Flower(Florals)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/102242-2.jpg
+Flower(Florals)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100064-2.jpg
+Flower(Florals)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100793-2.jpg
+
+Dragon  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/103095-3.jpg
+
+
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/113476-2.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/113476.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119576-2.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119576-3.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119576.jpg
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/101055-2.jpg
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/101055-3.jpg
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/101055.jpg
+Butterfly  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/190466-2.jpg
+Channel Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503141.jpg
+
+Ox(Bull)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/190693-2.jpg
+Ox(Bull)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/190693-3.jpg
+Ox(Bull)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/190693.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100073-2.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100073.jpg
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100894-2.jpg
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100894-3.jpg
+plain sailing  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100907-2.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119056-2.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119056-3.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119056.jpg
+Dragon  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/115935-2.jpg
+Dragon  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/115935-3.jpg
+Dragon  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/115935.jpg
+Multi-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/502796-2.jpg
+Multi-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/502796.jpg
+Ox(Bull)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/190529-2.jpg
+Ox(Bull)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/190529-3.jpg
+Crown  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/118198-3.jpg
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/103090-2.jpg
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/103090-3.jpg
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/103090.jpg
+Multi-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503026-2.jpg
+Multi-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503026-3.jpg
+Multi-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503026.jpg
+Dragon  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/122966-3.jpg
+Leaf(Foliage)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/117131-3.jpg
+Happiness  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/114493-3.jpg
+Happiness  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/114493.jpg
+Gourd(Calabash)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/116282-2.jpg
+Gourd(Calabash)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/116282-3.jpg
+Gourd(Calabash)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/116282.jpg
+
+English letter  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/118440-2.jpg
+English letter  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/118440-3.jpg
+English letter  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/118440.jpg
+
+
+Multi-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/504623-2.jpg
+Sheep(Goat)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100827-2.jpg
+Sheep(Goat)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100827-3.jpg
+Sheep(Goat)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100827.jpg
+Channel Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503010-2.jpg
+Channel Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503010-3.jpg
+Channel Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503010.jpg
+Four-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/502749-2.jpg
+Four-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/502749-3.jpg
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/103250-2.jpg
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/103250.jpg
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/103093-2.jpg
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/103093-3.jpg
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/103093.jpg
+Sheep(Goat)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/105274-2.jpg
+
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100087-2.jpg
+Channel Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/502683-2.jpg
+Channel Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/502683-3.jpg
+Channel Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/502683.jpg
+
+Ox(Bull)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/115924-2.jpg
+Ox(Bull)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/115924-3.jpg
+Ox(Bull)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/115924.jpg
+Sheep(Goat)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/192097-2.jpg
+Sheep(Goat)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/192097-3.jpg
+Sheep(Goat)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/192097.jpg
+
+Multi-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503918-2.jpg
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/103089-2.jpg
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/103089-3.jpg
+plain sailing  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/114977-2.jpg
+Gourd(Calabash)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119873-2.jpg
+Gourd(Calabash)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119873-3.jpg
+plain sailing  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/123240-2.jpg
+plain sailing  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/123240-3.jpg
+plain sailing  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/123240.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/117998-2.jpg
+Four-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/502750-2.jpg
+Four-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/502750.jpg
+Multi-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/590217-2.jpg
+Multi-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/590217-3.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/115932-2.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/115932-3.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/115932.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/121032-2.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/121032-3.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/121032.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/121033-2.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/121033-3.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/121033.jpg
+Gourd(Calabash)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/116262.jpg
+Multi-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/504639-3.jpg
+Multi-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/504639.jpg
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/190674-2.jpg
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/190674-3.jpg
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/190674.jpg
+Mantra  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119807-2.jpg
+Mantra  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119807-3.jpg
+Mantra  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119807.jpg
+Multi-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503019-2.jpg
+Multi-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503019-3.jpg
+Multi-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503019.jpg
+
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/122906-2.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/122906-3.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/122906.jpg
+Gourd(Calabash)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/116586-2.jpg
+Dragon  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/192099-2.jpg
+Dragon  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/192099-3.jpg
+Dragon  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/192099.jpg
+Channel Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/504630-3.jpg
+Gourd(Calabash)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/116260-3.jpg
+Leaf(Foliage)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/102351-2.jpg
+Butterfly  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/190464-2.jpg
+Dragon  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/192497-3.jpg
+Gourd(Calabash)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/122347.jpg
+Happiness  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/122425-2.jpg
+Happiness  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/122425-3.jpg
+Happiness  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/122425.jpg
+Happiness  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/103235-2.jpg
+Happiness  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/103235-3.jpg
+Four-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503201-2.jpg
+Four-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503201.jpg
+Channel Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/590316-2.jpg
+Channel Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/590316-3.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/102664-2.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/103019-2.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/103019.jpg
+Leaf(Foliage)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/120441-2.jpg
+Leaf(Foliage)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/120441-3.jpg
+Dragon  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100860-2.jpg
+Dragon  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100860-3.jpg
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/101843-2.jpg
+Gourd(Calabash)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/101167.jpg
+
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/120911-2.jpg
+Gourd(Calabash)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/121115-2.jpg
+Gourd(Calabash)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/121115-3.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119028-2.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119028-3.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119028.jpg
+Butterfly  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/114420-3.jpg
+Crown  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/115124-2.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/101108-2.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/101108-3.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/104562-2.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/104562-3.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/104562.jpg
+Ox(Bull)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/190523-2.jpg
+Ox(Bull)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/190523-3.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/102000-2.jpg
+Dragon  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100848-2.jpg
+Dragon  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100848-3.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/118242-2.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/118242-3.jpg
+Happiness  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/116580-3.jpg
+Gourd(Calabash)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/118983-3.jpg
+Channel Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503273-3.jpg
+Channel Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503273.jpg
+Butterfly  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/118879-3.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/118124-2.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/118124.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/118166-2.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/118166-3.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/118166.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119493-2.jpg
+Ox(Bull)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/190707-2.jpg
+Ox(Bull)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/190707-3.jpg
+Ox(Bull)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/190707.jpg
+Dragon  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/118160-2.jpg
+Dragon  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/118160-3.jpg
+Dragon  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/118160.jpg
+plain sailing  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/102002-2.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/120891-2.jpg
+English letter  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/114132-3.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/114479-3.jpg
+
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100871-2.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/100871.jpg
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119055-2.jpg
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119055-3.jpg
+Tiger  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119055.jpg
+Happiness  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/117422-2.jpg
+Happiness  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/117422-3.jpg
+Happiness  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/117422.jpg
+Dragon  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/192490-2.jpg
+Dragon  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/192490-3.jpg
+Dragon  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/192490.jpg
+Four-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/502813-2.jpg
+
+Dragon  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/101997-2.jpg
+
+Sheep(Goat)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/105151-3.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/117548-2.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/117548-3.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/117548.jpg
+Channel Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503005-2.jpg
+Channel Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503005-3.jpg
+Channel Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503005.jpg
+Multi-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503030-2.jpg
+Multi-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503030-3.jpg
+Multi-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503030.jpg
+English letter  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/117254-2.jpg
+English letter  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/117254-3.jpg
+English letter  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/117254.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119436-2.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119436-3.jpg
+Rabbit  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119436.jpg
+Channel Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/502915-2.jpg
+Channel Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/502915-3.jpg
+Channel Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/502915.jpg
+Multi-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503922-2.jpg
+Multi-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503922-3.jpg
+Multi-prong Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/503922.jpg
+Leaf(Foliage)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/116606-2.jpg
+Leaf(Foliage)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/116606-3.jpg
+Channel Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/501093-3.jpg
+Channel Setting  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/501093.jpg
+Ox(Bull)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/190526-2.jpg
+Ox(Bull)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/190526-3.jpg
+Gourd(Calabash)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/121031-2.jpg
+Gourd(Calabash)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/121031.jpg
+Leaf(Foliage)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/120442-2.jpg
+Leaf(Foliage)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/120442-3.jpg
+Butterfly  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/119399.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/102585-2.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/102585-3.jpg
+Fortune(Blessing)  /root/autodl-tmp/fxzb_percept-master/__local_raw_data/fx_round2/FFOutput/102585.jpg
+
+
+
+shape_b                        wrong     all    per
+Four-prong Setting               8
+Flower(Florals)                 21
+Rabbit                          28
+Channel Setting                 21
+Multi-prong Setting             21
+Ox(Bull)                        16
+Leaf(Foliage)                   9
+Crown                           3
+Horse
+Fortune(Blessing)
+Gourd(Calabash)
+Butterfly
+Dragon
+English letter
+Tiger
+Sheep(Goat)
+Happiness
+plain sailing
+Mantra

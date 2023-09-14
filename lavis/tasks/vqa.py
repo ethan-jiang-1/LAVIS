@@ -123,7 +123,7 @@ class VQATask(BaseTask):
         )
 
         metrics = self._report_metrics(result_file=result_file, split=split_name)
-
+        metrics = {"agg_metrics": 0.0}
         return metrics
 
     @dist_utils.main_process

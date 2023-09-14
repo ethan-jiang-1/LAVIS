@@ -376,7 +376,7 @@ class RunnerBase:
 
                     val_log = self.eval_epoch(
                         split_name=split_name, cur_epoch=cur_epoch
-                    )
+                    )   
                     if val_log is not None:
                         if is_main_process():
                             assert (
@@ -387,7 +387,8 @@ class RunnerBase:
                             if agg_metrics > best_agg_metric and split_name == "val":
                                 best_epoch, best_agg_metric = cur_epoch, agg_metrics
 
-                                self._save_checkpoint(cur_epoch, is_best=True)
+                                # self._save_checkpoint(cur_epoch, is_best=True)
+                            self._save_checkpoint(cur_epoch, is_best=False)
 
                             val_log.update({"best_epoch": best_epoch})
                             self.log_stats(val_log, split_name)
@@ -419,7 +420,7 @@ class RunnerBase:
                     split_name=split_name, cur_epoch=cur_epoch, skip_reload=skip_reload
                 )
 
-            return test_logs
+        return test_logs
 
     def train_epoch(self, epoch):
         # train
@@ -455,22 +456,24 @@ class RunnerBase:
         # TODO In validation, you need to compute loss as well as metrics
         # TODO consider moving to model.before_evaluation()
         model = self.unwrap_dist_model(self.model)
-        if not skip_reload and cur_epoch == "best":
-            model = self._reload_best_model(model)
+        # if not skip_reload and cur_epoch == "best":
+        #     model = self._reload_best_model(model)
         model.eval()
 
         self.task.before_evaluation(
             model=model,
             dataset=self.datasets[split_name],
         )
+        # print(data_loader)
         results = self.task.evaluation(model, data_loader)
-
+        # print(results)
         if results is not None:
             return self.task.after_evaluation(
                 val_result=results,
                 split_name=split_name,
                 epoch=cur_epoch,
             )
+        return results
 
     def unwrap_dist_model(self, model):
         if self.use_distributed:
@@ -583,7 +586,8 @@ class RunnerBase:
         }
         save_to = os.path.join(
             self.output_dir,
-            "checkpoint_{}.pth".format("best" if is_best else cur_epoch),
+            # "checkpoint_{}.pth".format("best" if is_best else cur_epoch),
+            "checkpoint_last.pth",
         )
         logging.info("Saving checkpoint at epoch {} to {}.".format(cur_epoch, save_to))
         torch.save(save_obj, save_to)

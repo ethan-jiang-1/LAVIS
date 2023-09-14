@@ -185,6 +185,7 @@ class BaseDatasetBuilder:
         datasets = dict()
         for split in ann_info.keys():
             if split not in ["train", "val", "test"]:
+            # if split not in ["train", "val"]:
                 continue
 
             is_train = split == "train"
@@ -222,7 +223,7 @@ class BaseDatasetBuilder:
 
             if not os.path.exists(vis_path):
                 warnings.warn("storage path {} does not exist.".format(vis_path))
-
+            # print(ann_paths)
             # create datasets
             dataset_cls = self.train_dataset_cls if is_train else self.eval_dataset_cls
             datasets[split] = dataset_cls(

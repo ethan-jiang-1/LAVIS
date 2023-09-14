@@ -8,12 +8,13 @@ model:
   load_finetuned: False
   load_pretrained: True
 
-  pretrained: "https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/InstructBLIP/instruct_blip_vicuna13b_trimmed.pth"
+  # pretrained: "/root/instruct_blip_vicuna13b_trimmed.pth"
+  pretrained: "/root/autodl-tmp/LAVIS/lavis/output/BLIP2/Caption_coco/20230909092/checkpoint_last.pth"
   finetuned: ""
 
   # vit encoder
-  image_size: 224
-  drop_path_rate: 0
+  image_size: 256
+  drop_path_rate: 0.1
   use_grad_checkpoint: False
   vit_precision: "fp16"
   freeze_vit: True
@@ -22,7 +23,7 @@ model:
   num_query_token: 32
 
   # path to Vicuna checkpoint
-  llm_model: "./llm/vicuna-13b"
+  llm_model: "/root/autodl-fs/vicuna-13b-1.1"
 
   # generation configs
   prompt: ""
@@ -32,10 +33,10 @@ preprocess:
     vis_processor:
         train:
           name: "blip2_image_train"
-          image_size: 224
+          image_size: 256
         eval:
           name: "blip_image_eval"
-          image_size: 224
+          image_size: 256
     text_processor:
         train:
           name: "blip_caption"

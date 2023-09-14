@@ -58,7 +58,7 @@ class CaptionTask(BaseTask):
 
         img_ids = samples["image_id"]
         for caption, img_id in zip(captions, img_ids):
-            results.append({"caption": caption, "image_id": int(img_id)})
+            results.append({"caption": caption, "image_id": img_id})
 
         return results
 
@@ -70,12 +70,13 @@ class CaptionTask(BaseTask):
             remove_duplicate="image_id",
         )
 
-        if self.report_metric:
-            metrics = self._report_metrics(
-                eval_result_file=eval_result_file, split_name=split_name
-            )
-        else:
-            metrics = {"agg_metrics": 0.0}
+        # if self.report_metric:
+        #     metrics = self._report_metrics(
+        #         eval_result_file=eval_result_file, split_name=split_name
+        #     )
+        # else:
+        #     metrics = {"agg_metrics": 0.0}
+        metrics = {"agg_metrics": 0.0}
 
         return metrics
 
@@ -108,23 +109,25 @@ from torchvision.datasets.utils import download_url
 
 def coco_caption_eval(coco_gt_root, results_file, split):
     urls = {
-        "val": "https://storage.googleapis.com/sfr-vision-language-research/datasets/coco_karpathy_val_gt.json",
-        "test": "https://storage.googleapis.com/sfr-vision-language-research/datasets/coco_karpathy_test_gt.json",
+        "val": "/root/autodl-tmp/coco/val_gt.json",
+        "test": "/root/autodl-tmp/coco/test_gt.json",
     }
-    filenames = {
-        "val": "coco_karpathy_val_gt.json",
-        "test": "coco_karpathy_test_gt.json",
-    }
+    # filenames = {
+    #     "val": "coco_karpathy_val_gt.json",
+    #     "test": "coco_karpathy_test_gt.json",
+    # }
 
-    download_url(urls[split], coco_gt_root)
-    annotation_file = os.path.join(coco_gt_root, filenames[split])
-
+    # download_url(urls[split], coco_gt_root)
+    # annotation_file = os.path.join(coco_gt_root, filenames[split])
+    annotation_file = urls[split]
+    print(annotation_file)
     # create coco object and coco_result object
     coco = COCO(annotation_file)
+    print(results_file," 1")
     coco_result = coco.loadRes(results_file)
 
     # create coco_eval object by taking coco and coco_result
-    coco_eval = COCOEvalCap(coco, coco_result)
+    coco_eval = (coco, coco_result)
 
     # evaluate on a subset of images by setting
     # coco_eval.params['image_id'] = coco_result.getImgIds()

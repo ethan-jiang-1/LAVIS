@@ -72,18 +72,18 @@ class COCOVQAEvalDataset(VQAEvalDataset, __DisplMixin):
 
         self.annotation = json.load(open(ann_paths[0]))
 
-        answer_list_path = ann_paths[1]
-        if os.path.exists(answer_list_path):
-            self.answer_list = json.load(open(answer_list_path))
-        else:
-            self.answer_list = None
+#         answer_list_path = ann_paths[1]
+#         if os.path.exists(answer_list_path):
+#             self.answer_list = json.load(open(answer_list_path))
+#         else:
+#             self.answer_list = None
 
-        try:
-            self.coco_fmt_qust_file = ann_paths[2]
-            self.coco_fmt_anno_file = ann_paths[3]
-        except IndexError:
-            self.coco_fmt_qust_file = None
-            self.coco_fmt_anno_file = None
+#         try:
+#             self.coco_fmt_qust_file = ann_paths[2]
+#             self.coco_fmt_anno_file = ann_paths[3]
+#         except IndexError:
+#             self.coco_fmt_qust_file = None
+#             self.coco_fmt_anno_file = None
 
         self.vis_processor = vis_processor
         self.text_processor = text_processor
